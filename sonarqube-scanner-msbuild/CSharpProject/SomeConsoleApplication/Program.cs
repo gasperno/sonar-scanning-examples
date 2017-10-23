@@ -6,7 +6,7 @@ namespace SomeConsoleApplication
         static void Main(string[] args)
         {
             var iAmTrue = true;
-			var i=0;
+			var b1="new branch";
             if (iAmTrue)
             {
                 Console.WriteLine("true");
