@@ -6,6 +6,7 @@ namespace SomeConsoleApplication
         static void Main(string[] args)
         {
             var iAmTrue = true;
+			var i=0;
             if (iAmTrue)
             {
                 Console.WriteLine("true");
